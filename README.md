@@ -41,12 +41,6 @@ O conjunto de dados contém:
 
 ---
 
-## Dashboard
-
-![Dashboard](./dashboard.png)
-
----
-
 ## Conclusão
 
 Este projeto demonstra como técnicas de análise de dados e visualização podem revelar padrões relevantes no mercado editorial, auxiliando na tomada de decisões e entendimento do comportamento do consumidor.
